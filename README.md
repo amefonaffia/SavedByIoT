@@ -21,4 +21,4 @@ Tools used:
 3. Simulated Cloud
 4. WiFi Adhoc 
 
-![alt text](https://raw.githubusercontent.com/amefonaffia/SavedByIoT/Untitled Diagram (5).png)
+![alt text](https://raw.githubusercontent.com/amefonaffia/SavedByIoT/Netscenario.png)
