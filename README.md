@@ -19,3 +19,4 @@ Tools used:
 1. Raspberry Pi 3
 2. Andriod Smartphone (as wearable)
 3. Azure Cloud
+4. WiFi Adhoc 
