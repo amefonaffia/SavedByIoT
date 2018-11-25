@@ -16,6 +16,6 @@ The system will contain:
 3. Unmanned carriers (i.e drones) to carry the network connectivity device and enable the collection of SOS messages and other information needed during a disaster, in the event of loss of local infrastructure communication.  
 
 Tools used:
-Raspberry Pi 3
-Andriod Smartphone (as wearable)
-Azure Cloud
+1. Raspberry Pi 3
+2. Andriod Smartphone (as wearable)
+3. Azure Cloud
