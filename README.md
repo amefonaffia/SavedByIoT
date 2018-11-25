@@ -14,3 +14,8 @@ The system will contain:
 1. Main Server and database to store collated information and generate reports and indications.
 2. Android application for citizens to send out custom SOS messages to the disaster management center. 
 3. Unmanned carriers (i.e drones) to carry the network connectivity device and enable the collection of SOS messages and other information needed during a disaster, in the event of loss of local infrastructure communication.  
+
+Tools used:
+Raspberry Pi 3
+Andriod Smartphone (as wearable)
+Azure Cloud
