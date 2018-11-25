@@ -1,5 +1,7 @@
 # RescueDeck
-For Junction 2018
+For Junction 2018. Link to presentation https://prezi.com/view/dR39RfcGpvKL2RXCDDyz/.
+
+# Description
 
 The RescueDeck project aims to provide first-point disaster management during emergency situations. Such disasters range from common accidents to natural disasters, providing a quick status update on the situation to enable call for help to the appropriate authorities. 
 The basic concept of the system is to have the main server application, responsible for coordinating all operations and supported by hardware devices and an android application to collect and visualize relevant information collated from disaster situations.
