@@ -20,3 +20,5 @@ Tools used:
 2. Andriod Smartphone (as wearable)
 3. Simulated Cloud
 4. WiFi Adhoc 
+
+![alt text](https://raw.githubusercontent.com/amefonaffia/SavedByIoT/Untitled Diagram (5).png)
