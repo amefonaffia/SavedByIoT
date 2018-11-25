@@ -18,5 +18,5 @@ The system will contain:
 Tools used:
 1. Raspberry Pi 3
 2. Andriod Smartphone (as wearable)
-3. Azure Cloud
+3. Simulated Cloud
 4. WiFi Adhoc 
